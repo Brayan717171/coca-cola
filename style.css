@@ -8,7 +8,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#CF2425, #DA6062 50%, #DA6062 60%,#CF2425);
+    background: linear-gradient(#180404,  #9b1f21 50%, #b43d3f 60%,#120505 );
 }
 
 header, footer {
@@ -65,11 +65,20 @@ main {
     font-size: 2.5rem;
     width: 240px;
     transform: translateX(-100%);
-    text-align: end;
+    text-align: center;
+    z-index: 1;
+    padding-right: 30px;
+    flex-direction: column;
+    
+
+
 }
 
 .content-image {
-    height: 85vh;
+    height: 50vh;
+    filter: drop-shadow(40px 40px  20px rgba(0, 0, 0, 0.859))
+    
+    
 }
 footer {
     height: 100px;
