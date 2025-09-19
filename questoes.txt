@@ -1,0 +1,18 @@
+O que é um repositório no Git e qual a sua importância?
+Qual a função do Git Bash?
+O que faz o comando git adde qual a diferença entre git add <arquivo>e git add .?
+Por que usamos o ponto ( .) no comando git add .?
+Explique o comando git commite por que é importante criar uma mensagem descritiva.
+Qual a função do comando git push?
+Qual a importância de criar compromissos frequentes durante o desenvolvimento de um projeto?
+Explique a função das tags HTML e como elas estruturam uma página.
+O que são atributos em uma tag HTML e qual a sua função?
+O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+O que é o box-sizingnão CSS e por que usamos ele no reset inicial?
+Por que é importante usar tags semânticas no HTML?
+O que são media queries no CSS e qual a sua função?
+Qual a função do GitHub Pages?
+O que é o Flexbox no CSS e para que ele é utilizado?
+Qual a diferença entre justify-contente align-itemsem um container Flexbox?
+Como flex-growfunciona e qual seu propósito no layout Flexbox?
+Explique a diferença entre flex-direction: column;e flex-direction: row;.
