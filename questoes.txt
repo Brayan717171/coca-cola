@@ -1,19 +1,43 @@
-O que é um repositório no Git e qual a sua importância?
+1.O que é um repositório no Git e qual a sua importância?
+O repositório git é sua pasta principal que armazena o histórico de informações e alterações do projeto, ele é importante pelo sua segurança e organização.
 
-Qual a função do Git Bash?
-O que faz o comando git adde qual a diferença entre git add <arquivo>e git add .?
-Por que usamos o ponto ( .) no comando git add .?
-Explique o comando git commite por que é importante criar uma mensagem descritiva.
-Qual a função do comando git push?
-Qual a importância de criar compromissos frequentes durante o desenvolvimento de um projeto?
-Explique a função das tags HTML e como elas estruturam uma página.
-O que são atributos em uma tag HTML e qual a sua função?
-O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
-O que é o box-sizingnão CSS e por que usamos ele no reset inicial?
-Por que é importante usar tags semânticas no HTML?
-O que são media queries no CSS e qual a sua função?
-Qual a função do GitHub Pages?
-O que é o Flexbox no CSS e para que ele é utilizado?
-Qual a diferença entre justify-contente align-itemsem um container Flexbox?
-Como flex-growfunciona e qual seu propósito no layout Flexbox?
-Explique a diferença entre flex-direction: column;e flex-direction: row;.
+2.Qual a função do Git Bash?
+é um terminal de comando do proprio do git.
+
+3. que faz o comando git add e qual a diferença entre git add <arquivo>e git add .?
+git add é para adicionar alterações do arquivo, git add <arquivo> adiciona somente o arquivo mencionado, gite add . inclui todos arquivos e adiciona as alterações.
+
+4.Por que usamos o ponto ( .) no comando git add .?
+o . é referencia do diretório atual que voce está localizado, entao usamos ele para adicionar o diretório todo.
+
+5.Explique o comando git commite por que é importante criar uma mensagem descritiva.
+Para saber oque voce alterou no seu projeto, ter organização e segurança caso faça alguma alteraçao no projeto que não funcione.
+
+6.Qual a função do comando git push?
+a função dele é mandar os commites para seu repositório 
+
+7.Qual a importância de criar compromissos frequentes durante o desenvolvimento de um projeto?
+é importante para segurança, rastreabilidade e organização.
+
+
+8.Explique a função das tags HTML e como elas estruturam uma página.
+
+9.O que são atributos em uma tag HTML e qual a sua função?
+
+10.O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+
+11.O que é o box-sizingnão CSS e por que usamos ele no reset inicial?
+
+12.Por que é importante usar tags semânticas no HTML?
+
+13.O que são media queries no CSS e qual a sua função?
+
+14.Qual a função do GitHub Pages?
+
+15.O que é o Flexbox no CSS e para que ele é utilizado?
+
+16.Qual a diferença entre justify-contente align-itemsem um container Flexbox?
+
+17.Como flex-growfunciona e qual seu propósito no layout Flexbox?
+
+18.Explique a diferença entre flex-direction: column;e flex-direction: row;.
