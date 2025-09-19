@@ -1,4 +1,5 @@
 O que é um repositório no Git e qual a sua importância?
+
 Qual a função do Git Bash?
 O que faz o comando git adde qual a diferença entre git add <arquivo>e git add .?
 Por que usamos o ponto ( .) no comando git add .?
