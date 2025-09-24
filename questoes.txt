@@ -16,28 +16,44 @@ Para saber oque voce alterou no seu projeto, ter organização e segurança caso
 6.Qual a função do comando git push?
 a função dele é mandar os commites para seu repositório 
 
-7.Qual a importância de criar compromissos frequentes durante o desenvolvimento de um projeto?
-é importante para segurança, rastreabilidade e organização.
+7. Por que fazer commits frequentes?
+Ajuda a manter tudo organizado, seguro e fácil de acompanhar no projeto.
 
+8. O que são tags HTML?
+São os blocos que montam a página, como títulos, parágrafos, imagens, etc.
 
-8.Explique a função das tags HTML e como elas estruturam uma página.
+9. O que são atributos em uma tag HTML?
+São detalhes extras que mudam o comportamento da tag (como links, tamanhos, descrições).
 
-9.O que são atributos em uma tag HTML e qual a sua função?
+10. O que é o Emmet?
+É uma ferramenta que acelera o código com atalhos. Digita menos, produz mais.
 
-10.O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+11. O que é box-sizing?
+Controla como o tamanho dos elementos é calculado. Usamos no reset para tudo ficar padrão.
 
-11.O que é o box-sizingnão CSS e por que usamos ele no reset inicial?
+12. Por que usar tags semânticas?
+Porque deixam o código mais claro e ajudam na acessibilidade e no Google.
 
-12.Por que é importante usar tags semânticas no HTML?
+13. O que são media queries?
+São regras no CSS para deixar o site bonito em qualquer tamanho de tela.
 
-13.O que são media queries no CSS e qual a sua função?
+14. O que é o GitHub Pages?
+Um jeito fácil e grátis de colocar seu site no ar usando o GitHub.
 
-14.Qual a função do GitHub Pages?
+15. O que é Flexbox?
+Uma forma fácil de alinhar e organizar elementos no layout com CSS.
 
-15.O que é o Flexbox no CSS e para que ele é utilizado?
+16. Justify-content vs Align-items:
 
-16.Qual a diferença entre justify-contente align-itemsem um container Flexbox?
+justify-content: alinha na direção principal (horizontal ou vertical).
 
-17.Como flex-growfunciona e qual seu propósito no layout Flexbox?
+align-items: alinha na outra direção (cruzada).
 
-18.Explique a diferença entre flex-direction: column;e flex-direction: row;.
+17. O que faz o flex-grow?
+Faz um item crescer para ocupar mais espaço no contêiner Flexbox.
+
+18. Diferença entre column e row no Flexbox:
+
+row: itens na horizontal.
+
+column: itens na vertical.
