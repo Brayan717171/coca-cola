@@ -110,9 +110,13 @@ footer div {
 
     .content-image {
         height: 70vh;
+        margin-top: auto;
     }
 
     footer {
         padding: 0px 25px;
+    }
+    .background-logo{
+        padding: 10px;
     }
 }
